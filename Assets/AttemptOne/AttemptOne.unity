@@ -535,9 +535,9 @@ RectTransform:
   m_Father: {fileID: 118957912}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 993.8, y: 111.6}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &316424568
@@ -581,7 +581,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: At CGS Canada I have lead <b>AR/VR initiatives</b> which solving hard business
-    problems for <b>mid-large scale companies</b>
+    problems for <b>mid-large scale companies</b>.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -797,9 +797,9 @@ RectTransform:
   m_Father: {fileID: 1744921941}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -449.4}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1052.4, y: 228.9}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &386441085
@@ -843,7 +843,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: The game, titled <b>Wild SanctuARy</b>, focused on locating and rehabilitating
-    displaced animals
+    displaced animals.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -1732,9 +1732,9 @@ RectTransform:
   m_Father: {fileID: 1744921941}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 993.8, y: 160.5}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &654231026
@@ -1778,7 +1778,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Initially, I was part of a <b>2 dev team</b> which took home <b>2nd place
-    ($300,000)</b> in the <b>Niantic Beyond Reality Competition</b>
+    ($300,000)</b> in the <b>Niantic Beyond Reality Competition</b>.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -2492,9 +2492,9 @@ RectTransform:
   m_Father: {fileID: 118957912}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -339.40002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 621.7, y: 164.6}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &893769505
@@ -2538,7 +2538,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Some of the <b>tech</b> I have utilized here at CGS includes Unity, Oculus,
-    Hololens, WebAR, Niantic Lightship AR SDK, XR Interaction Toolkit (Hand Tracking)
+    Hololens, WebAR, Niantic Lightship AR SDK, XR Interaction Toolkit (Hand Tracking).
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -2722,9 +2722,9 @@ RectTransform:
   m_Father: {fileID: 2074760468}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -139}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1052.4, y: 227.8}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &917412815
@@ -2769,7 +2769,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'During this project, I was directly responsible for the technical design
     and implementation of many game features: (Quest System, Animal AI, Minigames,
-    Player Inventory, etc.)'
+    Player Inventory, etc.).'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -3201,9 +3201,9 @@ RectTransform:
   m_Father: {fileID: 2074760468}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 993.8, y: 109}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1020709337
@@ -3247,7 +3247,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Secured <b>$1M in funding</b> from the <b>Canadian Media Fund</b> after
-    completion of the contest
+    completion of the contest.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -3358,9 +3358,9 @@ RectTransform:
   m_Father: {fileID: 1744921941}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -190.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1052.4, y: 228.9}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1042498118
@@ -3405,7 +3405,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: At the competition, we created an AR, geolocation game prototype in 4 months
     using Niantic's then proprietary Unity SDK (now released as the <b>Niantic Lightship
-    SDK</b> for Unity)
+    SDK</b> for Unity).
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -4705,9 +4705,9 @@ RectTransform:
   m_Father: {fileID: 2074760468}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -396.8}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1052.4, y: 228.9}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1680347588
@@ -4751,7 +4751,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Some of the <b>tech</b> I utilized at Dibs included Unity, Niantic Lightship
-    SDK (Proprietary), AR Foundation, and Mapbox
+    SDK (Proprietary), AR Foundation, and Mapbox.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -4862,9 +4862,9 @@ RectTransform:
   m_Father: {fileID: 118957912}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -141.6}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1052.4, y: 167.8}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1699977055
