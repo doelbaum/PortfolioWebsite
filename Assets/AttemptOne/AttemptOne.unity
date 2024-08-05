@@ -776,7 +776,7 @@ GameObject:
   - component: {fileID: 386441086}
   - component: {fileID: 386441085}
   m_Layer: 5
-  m_Name: Created an (1)
+  m_Name: The game
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -842,8 +842,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The game, titled <b>Wild SanctuARy</b>, and focused on locating and rehabilitating
-    displaced animals through social play
+  m_text: The game, titled <b>Wild SanctuARy</b>, focused on locating and rehabilitating
+    displaced animals
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -2111,7 +2111,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 0
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 4
+  m_ScrollSensitivity: 6
   m_Viewport: {fileID: 1609150629}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 0}
@@ -3337,7 +3337,7 @@ GameObject:
   - component: {fileID: 1042498119}
   - component: {fileID: 1042498118}
   m_Layer: 5
-  m_Name: Created an
+  m_Name: At the comp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
