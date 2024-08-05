@@ -158,7 +158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 110, y: 47}
+  m_AnchoredPosition: {x: 110, y: 120.6}
   m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &39328918
@@ -208,8 +208,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -898,8 +898,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lead <b>AR/VR initiatives</b> solving hard business problems for <b>mid-large
-    scale companies</b>
+  m_text: Secured <b>$1M in funding</b> from the <b>Canadian Media Fund</b> after
+    completing the Beyond Reality Contest
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -1266,7 +1266,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 110, y: -98.2}
+  m_AnchoredPosition: {x: 110, y: -115.67}
   m_SizeDelta: {x: 388.3, y: 50}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &440949701
@@ -1289,8 +1289,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Tech utilized: Unity, <b>Oculus,</b> Hololens, <b>WebAR</b>, Niantic Lightship
-    AR SDK, <b>XR Interaction Toolkit (Hand Tracking)</b>'
+  m_text: 'Tech utilized: Unity, Niantic Lightship SDK (Proprietary), AR Foundation,
+    Mapbox'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -1409,7 +1409,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 390}
+  m_SizeDelta: {x: 0, y: 1082}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &552247276
 MonoBehaviour:
@@ -1618,7 +1618,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 110, y: 92}
+  m_AnchoredPosition: {x: 110, y: 216.19}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &568529641
@@ -1668,8 +1668,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 72
+  m_fontSizeBase: 72
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1888,8 +1888,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 110, y: -70.100006}
-  m_SizeDelta: {x: 291.1, y: 50}
+  m_AnchoredPosition: {x: 110, y: -175.7}
+  m_SizeDelta: {x: 553.4, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &634148665
 MonoBehaviour:
@@ -1912,7 +1912,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: I love creating  <b>social, interactive,</b> and <b>dynamic </b>experiences.
-    Let's work together!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -1939,8 +1938,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2384,7 +2383,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24, y: 0.3999939}
+  m_AnchoredPosition: {x: -24, y: 0.4000244}
   m_SizeDelta: {x: -44, y: 3.1999974}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &730358143
@@ -2444,7 +2443,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 0
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 7
+  m_ScrollSensitivity: 4
   m_Viewport: {fileID: 1609150629}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 0}
@@ -3014,7 +3013,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -24.82}
   m_SizeDelta: {x: 216, y: 288}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &949829242
@@ -3127,9 +3126,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Created an <b>AR, geolocation game prototype in 4 months</b> using Niantic's
-    then <b>proprietary Unity SDK (now released as the Niantic Lightship SDK for
-    Unity)</b>
+  m_text: Created an AR, geolocation game prototype in 4 months using Niantic's then
+    proprietary Unity SDK (now released as the Niantic Lightship SDK for Unity)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -3427,7 +3425,7 @@ GameObject:
   - component: {fileID: 1015353198}
   - component: {fileID: 1015353197}
   m_Layer: 5
-  m_Name: CGS Canada (2)
+  m_Name: Dibs 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3456,7 +3454,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 390}
+  m_SizeDelta: {x: 0, y: 1082}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1015353197
 MonoBehaviour:
@@ -4327,7 +4325,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 216.5, y: 288.5}
+  m_SizeDelta: {x: 433, y: 577}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1238565139
 MonoBehaviour:
@@ -4699,7 +4697,7 @@ GameObject:
   - component: {fileID: 1440769764}
   - component: {fileID: 1440769763}
   m_Layer: 5
-  m_Name: Text (TMP) (3)
+  m_Name: Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4745,7 +4743,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: <b>CGS Canada (2022 - Present)
+  m_text: <b> Dibs Studio (2019 - 2021)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -5192,8 +5190,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'List of clients: <b>Universal Studios, </b>Walmart, <b>Redbull,</b> American
-    Red Cross, <b>McDonalds</b>'
+  m_text: 'Developed the technical design and implementation of many game features:
+    (Quest
+
+    System, Animal AI, Minigames, Player Inventory, etc.)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
   m_sharedMaterial: {fileID: -8020525859855913840, guid: c6d37ec8b402fd54299e87e58e56cc81, type: 2}
@@ -5438,7 +5438,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 390}
+  m_SizeDelta: {x: 0, y: 1082}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1574916451
 MonoBehaviour:
@@ -5526,7 +5526,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 249, y: 250.5}
+  m_SizeDelta: {x: 216.5, y: 288.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1584498700
 MonoBehaviour:
@@ -5548,7 +5548,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: cb4e461a5c477bd48b7a4d0c1363ccd3, type: 3}
+  m_Texture: {fileID: 2800000, guid: 1529724d7c3dab94aa28bbe4221f871f, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -7312,7 +7312,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 110, y: 12}
-  m_SizeDelta: {x: 297.2, y: 50}
+  m_SizeDelta: {x: 621.7, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2060183469
 MonoBehaviour:
@@ -7361,8 +7361,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7556,7 +7556,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 182419267663085938, guid: 3347920edbdeb694fad8f3779e6a5031, type: 3}
       propertyPath: m_Name
-      value: Screen
+      value: Hello Screen
       objectReference: {fileID: 0}
     - target: {fileID: 182419267663085938, guid: 3347920edbdeb694fad8f3779e6a5031, type: 3}
       propertyPath: m_IsActive
@@ -7596,7 +7596,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 182419267663085949, guid: 3347920edbdeb694fad8f3779e6a5031, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 390
+      value: 1082
       objectReference: {fileID: 0}
     - target: {fileID: 182419267663085949, guid: 3347920edbdeb694fad8f3779e6a5031, type: 3}
       propertyPath: m_LocalPosition.x

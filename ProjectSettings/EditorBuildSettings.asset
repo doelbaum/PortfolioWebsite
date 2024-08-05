@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/UnderConstruction/UnderConstruction.unity
     guid: d6e2431cc159f4d4993123233c6c4883
+  - enabled: 1
+    path: Assets/AttemptOne/AttemptOne.unity
+    guid: cb1d642e14b79874dae20ca2840d3db9
   m_configObjects: {}
